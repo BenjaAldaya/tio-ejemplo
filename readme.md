@@ -3,9 +3,6 @@
 	##Sub encabezado
 
 
-**Nombre del proyecto**
+**Primeros pasos con GIT**
 
-*Autor del proyecto*
-
-__Nombre del proyecto__
-_Autor del proyecto_
+*Benjamin Aldaya*
